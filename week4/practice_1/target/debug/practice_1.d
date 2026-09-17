@@ -1,0 +1,1 @@
+/Users/mac/Documents/Anime\ Stardust\ Ultimate\ (IKEMEN)/s.aniegbokaCOS101/week4/practice_1/target/debug/practice_1: /Users/mac/Documents/Anime\ Stardust\ Ultimate\ (IKEMEN)/s.aniegbokaCOS101/week4/practice_1/src/main.rs
